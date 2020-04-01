@@ -3,3 +3,6 @@ build
 
 # NPM Packages
 node_modules
+
+.vscode
+.idea
