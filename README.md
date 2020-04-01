@@ -1,7 +1,13 @@
 ## Dashboard Checklist
+
 - [ ] Login Component.
+- [ ] Dashboard Component.
 - [ ] User Managment Component.
 - [ ] ACL Management Component.
+
+## Portal Checklist
+- [ ] Sign-in and Sign-up Component.
+- [ ] Home Component.
 
 ## More Details
 
