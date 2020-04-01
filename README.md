@@ -1,7 +1,7 @@
 ## Dashboard Checklist
-- [] Login Component.
-- [] User Managment Component.
-- [] ACL Management Component.
+- [ ] Login Component.
+- [ ] User Managment Component.
+- [ ] ACL Management Component.
 
 ## More Details
 
