@@ -1,3 +1,10 @@
+## Dashboard Checklist
+- [] Login Component.
+- [] User Managment Component.
+- [] ACL Management Component.
+
+## More Details
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
