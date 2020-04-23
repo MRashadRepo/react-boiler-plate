@@ -4,10 +4,32 @@
 - [ ] Dashboard Component.
 - [ ] User Managment Component.
 - [ ] ACL Management Component.
+- [ ] File Upload Component.
 
 ## Portal Checklist
 - [ ] Sign-in and Sign-up Component.
+- [ ] Forget and Reset Password Component.
 - [ ] Home Component.
+
+## Remarks
+- [x] Lazy Loading.
+- [ ] Route Guards.
+- [ ] RxJs.
+- [ ] Redux
+- [ ] Animation.
+- [ ] Reusable and shared components.
+- [ ] Shared modules.
+
+## Linting
+
+## Unit Test
+- [ ] Jest
+
+## e2e Test
+
+## Docker
+- [ ] Dockerfile
+- [ ] docker-compose
 
 ## More Details
 
